@@ -7,9 +7,7 @@
 
 This dashboard provides a comprehensive view of **wagon unloading operations** across the Iranian railway network. It summarizes unloading queue status, number of unloaded wagons, station performance, and the share of commodities unloaded in key cities. Through filters for year, season, month, cargo type, and destination station, users can analyze temporal trends and operational efficiency across the network.
 
----
-![](images/Dashboard_image.png)
----
+
 
 ## **1. Unloading Queue Information (Top-Left Bar Chart)**
 
