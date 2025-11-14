@@ -21,7 +21,7 @@ This multi-category bar chart shows monthly statistics for two years (1398–139
 * **Average unloaded wagons** (blue)
 * **Average total of waiting + under unloading** (red)
 
-The chart reveals:
+The chart reveals insights such as:
 
 * Seasonal peaks in unloading activity
 * Congestion periods when waiting wagons exceed unloading capacity
